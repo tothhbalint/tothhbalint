@@ -1,7 +1,6 @@
 ### Hi im Bálint 👋 
 
 
-- 🔭 I’m currently working on a led strip project
 - 🌱 I’m currently learning Computer Engineering at BME
 - ⚡ Fun fact: I use Arch btw (obligatory)
 
